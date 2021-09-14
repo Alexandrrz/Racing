@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1216844618633366279
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 59.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -471.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196577, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196578, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_Name
+      value: "Hatchback \u041C\u0415\u041D\u042F\u0422\u042C \u0427\u0418\u0421\u041B\u0410
+        \u0422\u041E\u041B\u042C\u041A\u041E \u0417\u0414\u0415\u0421\u042C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: maxspeed
+      value: 115
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: steerAngle
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: brakeTorque
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: maxEngineTorque
+      value: 210
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: highspeedsteerAngle
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: maxEngineTorqueAtRPM
+      value: 3525
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: highspeedsteerAngleAtspeed
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[1].time
+      value: 3525
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[1].value
+      value: 210
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[2].value
+      value: 140
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[0].inSlope
+      value: 0.05957447
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[1].inSlope
+      value: 0.022890683
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[2].inSlope
+      value: -0.013793103
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[0].outSlope
+      value: 0.05957447
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[1].outSlope
+      value: 0.022890683
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134120169346196579, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: engineTorqueCurve.m_Curve.Array.data[2].outSlope
+      value: -0.013793103
+      objectReference: {fileID: 0}
+    - target: {fileID: 5729536619654877045, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f4caf07397b2d7c4cbf1df5b5474f511, type: 3}
